@@ -46,15 +46,12 @@ Assets/
 
 ## Development Notes
 
-**University Group Project** - Created for promotional/advertising purposes
-
+**University Group Project**
 This project served as my introduction to:
 - Unity game engine and development workflow
 - C# programming language and game scripting
 - Game design principles and user experience
 - Collaborative game development
-
-Built with Unity 2023.x and designed for educational and promotional use.
 
 ## License
 
