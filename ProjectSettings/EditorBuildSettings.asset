@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c2dc54c722f45c6479d6cc6e054c393f
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: 01f95cc5f6dd2df49a9a2592a8bd63be
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 947cc55054b6cfd42abc10eaa13b25c1
+  - enabled: 1
+    path: Assets/Scenes/PreferencesSelection.unity
+    guid: 780def8f9614eb94a98835772bffe9c6
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 227a28d2b4360d945ace8582b6fc7a14
+  - enabled: 1
+    path: Assets/Scenes/Fridge.unity
+    guid: 86d60640a2ca9df4b82d4de7da1e8fcd
+  - enabled: 1
+    path: Assets/Scenes/Cupboard.unity
+    guid: 5c2488aac3e2bba4882fd359249052ae
+  - enabled: 1
+    path: Assets/Scenes/Cut.unity
+    guid: 4d4e6ffef7707b2488417ece48d29eb4
+  - enabled: 1
+    path: Assets/Scenes/Mix.unity
+    guid: 5033431f3258f0446b9fef18fb1e7232
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: a35032e8780ede249ac4615bbd8ffbd1
+  - enabled: 1
+    path: Assets/Scenes/MiniGame #1.unity
+    guid: fe6fa149a6a1d85409c7d5b37e40b076
+  - enabled: 1
+    path: Assets/Scenes/MiniGame #2.unity
+    guid: eae459daaa2754b4e9bbecbca5d2a5b0
+  - enabled: 1
+    path: Assets/Scenes/Bookshelf.unity
+    guid: bb7d521db44e48a4f901df562e4fe5ad
+  - enabled: 1
+    path: Assets/Scenes/TurnTable.unity
+    guid: f8546ecf8dd7a4b459d225be18410723
+  - enabled: 1
+    path: Assets/Scenes/Photo.unity
+    guid: 58323253164a40842bfde6f99a4bad41
+  - enabled: 1
+    path: Assets/Scenes/Eat.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: fb8eb38cc2a091b49add319aa02d792e
+  - enabled: 0
+    path: Assets/Scenes/EatVecchia.unity
+    guid: 10aa9864ba257334bb26f49bdb2427b5
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f42a61c85e48e1c439f96af4c434c7d1, type: 2}
+  m_UseUCBPForAssetBundles: 0
